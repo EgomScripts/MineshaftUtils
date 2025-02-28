@@ -3,8 +3,13 @@
 Current features 
 
 Auto party transfer/party warp in good mineshafts
+
 tells you the quality of the mineshaft based on how many lapis corpses / gemstone price / gemstone density
+
 tell you the optimal time when to use Portable Campfire
+
+
+this mod follows the hypixel rules and tos 
 
 1.8.9 Forge Mod
 
