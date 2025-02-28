@@ -1,3 +1,5 @@
+[DOWNLOAD](https://github.com/EgomScripts/MineshaftUtils/releases/download/alpha/MineShaftUtils.jar)
+
 Current features 
 
 Auto party transfer/party warp in good mineshafts
